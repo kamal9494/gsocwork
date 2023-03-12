@@ -1,0 +1,491 @@
+{
+    "nodes": [
+      {
+        "id": 1239,
+        "name": "SPRINTLINK U"
+      },
+      {
+        "id": 12956,
+        "name": "TELXIUSTELXIUSCable E"
+      },
+      {
+        "id": 1299,
+        "name": "TWELVE99Arelion fkaTeliaCarrier S"
+      },
+      {
+        "id": 2914,
+        "name": "NTT-LTD-2914 U"
+      },
+      {
+        "id": 6453,
+        "name": "AS6453 U"
+      },
+      {
+        "id": 5511,
+        "name": "OPENTRANSIT F"
+      },
+      {
+        "id": 6762,
+        "name": "SEABONE-NETTELECOMITALIASPARKLES.p.A. I"
+      },
+      {
+        "id": 3356,
+        "name": "LEVEL3 U"
+      },
+      {
+        "id": 3257,
+        "name": "GTT-BACKBONEGTT U"
+      },
+      {
+        "id": 7018,
+        "name": "ATT-INTERNET4 U"
+      },
+      {
+        "id": 3320,
+        "name": "DTAGInternetserviceprovideroperations D"
+      },
+      {
+        "id": 1273,
+        "name": "CWVodafoneGroupPLC E"
+      },
+      {
+        "id": 701,
+        "name": "UUNET U"
+      },
+      {
+        "id": 174,
+        "name": "COGENT-174 U"
+      },
+      {
+        "id": 6461,
+        "name": "ZAYO-6461 U"
+      }
+    ],
+    "links": [
+      {
+        "source": 6762,
+        "target": 1273
+      },
+      {
+        "source": 6762,
+        "target": 1273
+      },
+      {
+        "source": 6762,
+        "target": 3356
+      },
+      {
+        "source": 3257,
+        "target": 701
+      },
+      {
+        "source": 6461,
+        "target": 1299
+      },
+      {
+        "source": 5511,
+        "target": 3320
+      },
+      {
+        "source": 5511,
+        "target": 174
+      },
+      {
+        "source": 5511,
+        "target": 6453
+      },
+      {
+        "source": 7018,
+        "target": 174
+      },
+      {
+        "source": 3320,
+        "target": 174
+      },
+      {
+        "source": 1239,
+        "target": 174
+      },
+      {
+        "source": 3257,
+        "target": 12956
+      },
+      {
+        "source": 6453,
+        "target": 701
+      },
+      {
+        "source": 6762,
+        "target": 701
+      },
+      {
+        "source": 1299,
+        "target": 6453
+      },
+      {
+        "source": 1273,
+        "target": 6461
+      },
+      {
+        "source": 1273,
+        "target": 3320
+      },
+      {
+        "source": 6762,
+        "target": 1239
+      },
+      {
+        "source": 1273,
+        "target": 174
+      },
+      {
+        "source": 6453,
+        "target": 12956
+      },
+      {
+        "source": 6762,
+        "target": 12956
+      },
+      {
+        "source": 2914,
+        "target": 6461
+      },
+      {
+        "source": 6762,
+        "target": 7018
+      },
+      {
+        "source": 6461,
+        "target": 3320
+      },
+      {
+        "source": 6762,
+        "target": 3257
+      },
+      {
+        "source": 6461,
+        "target": 174
+      },
+      {
+        "source": 2914,
+        "target": 174
+      },
+      {
+        "source": 3356,
+        "target": 6453
+      },
+      {
+        "source": 5511,
+        "target": 3356
+      },
+      {
+        "source": 7018,
+        "target": 3320
+      },
+      {
+        "source": 2914,
+        "target": 1299
+      },
+      {
+        "source": 7018,
+        "target": 6453
+      },
+      {
+        "source": 3320,
+        "target": 6453
+      },
+      {
+        "source": 12956,
+        "target": 701
+      },
+      {
+        "source": 1239,
+        "target": 3320
+      },
+      {
+        "source": 6762,
+        "target": 1299
+      },
+      {
+        "source": 1239,
+        "target": 6453
+      },
+      {
+        "source": 5511,
+        "target": 701
+      },
+      {
+        "source": 174,
+        "target": 6453
+      },
+      {
+        "source": 6461,
+        "target": 5511
+      },
+      {
+        "source": 1299,
+        "target": 701
+      },
+      {
+        "source": 1273,
+        "target": 6453
+      },
+      {
+        "source": 5511,
+        "target": 12956
+      },
+      {
+        "source": 6461,
+        "target": 3356
+      },
+      {
+        "source": 5511,
+        "target": 3257
+      },
+      {
+        "source": 3320,
+        "target": 3257
+      },
+      {
+        "source": 6461,
+        "target": 6453
+      },
+      {
+        "source": 2914,
+        "target": 3320
+      },
+      {
+        "source": 6762,
+        "target": 6461
+      },
+      {
+        "source": 2914,
+        "target": 6453
+      },
+      {
+        "source": 1299,
+        "target": 12956
+      },
+      {
+        "source": 6762,
+        "target": 174
+      },
+      {
+        "source": 1239,
+        "target": 5511
+      },
+      {
+        "source": 1299,
+        "target": 3257
+      },
+      {
+        "source": 7018,
+        "target": 3356
+      },
+      {
+        "source": 3320,
+        "target": 3356
+      },
+      {
+        "source": 174,
+        "target": 3257
+      },
+      {
+        "source": 1273,
+        "target": 1239
+      },
+      {
+        "source": 1239,
+        "target": 3356
+      },
+      {
+        "source": 3356,
+        "target": 701
+      },
+      {
+        "source": 1273,
+        "target": 2914
+      },
+      {
+        "source": 1273,
+        "target": 3257
+      },
+      {
+        "source": 6461,
+        "target": 1239
+      },
+      {
+        "source": 1273,
+        "target": 5511
+      },
+      {
+        "source": 7018,
+        "target": 701
+      },
+      {
+        "source": 3320,
+        "target": 701
+      },
+      {
+        "source": 6461,
+        "target": 3257
+      },
+      {
+        "source": 3356,
+        "target": 12956
+      },
+      {
+        "source": 1239,
+        "target": 701
+      },
+      {
+        "source": 1273,
+        "target": 3356
+      },
+      {
+        "source": 3356,
+        "target": 3257
+      },
+      {
+        "source": 2914,
+        "target": 5511
+      },
+      {
+        "source": 3257,
+        "target": 6453
+      },
+      {
+        "source": 7018,
+        "target": 12956
+      },
+      {
+        "source": 3320,
+        "target": 12956
+      },
+      {
+        "source": 174,
+        "target": 701
+      },
+      {
+        "source": 5511,
+        "target": 7018
+      },
+      {
+        "source": 7018,
+        "target": 3257
+      },
+      {
+        "source": 2914,
+        "target": 3356
+      },
+      {
+        "source": 1239,
+        "target": 12956
+      },
+      {
+        "source": 1239,
+        "target": 7018
+      },
+      {
+        "source": 1273,
+        "target": 701
+      },
+      {
+        "source": 1239,
+        "target": 3257
+      },
+      {
+        "source": 6762,
+        "target": 3320
+      },
+      {
+        "source": 6762,
+        "target": 6453
+      },
+      {
+        "source": 174,
+        "target": 12956
+      },
+      {
+        "source": 6461,
+        "target": 701
+      },
+      {
+        "source": 3356,
+        "target": 1299
+      },
+      {
+        "source": 2914,
+        "target": 701
+      },
+      {
+        "source": 1273,
+        "target": 12956
+      },
+      {
+        "source": 1273,
+        "target": 7018
+      },
+      {
+        "source": 5511,
+        "target": 1299
+      },
+      {
+        "source": 7018,
+        "target": 1299
+      },
+      {
+        "source": 3320,
+        "target": 1299
+      },
+      {
+        "source": 2914,
+        "target": 1239
+      },
+      {
+        "source": 6461,
+        "target": 12956
+      },
+      {
+        "source": 1239,
+        "target": 1299
+      },
+      {
+        "source": 6461,
+        "target": 7018
+      },
+      {
+        "source": 2914,
+        "target": 12956
+      },
+      {
+        "source": 2914,
+        "target": 7018
+      },
+      {
+        "source": 2914,
+        "target": 3257
+      },
+      {
+        "source": 6762,
+        "target": 2914
+      },
+      {
+        "source": 174,
+        "target": 1299
+      },
+      {
+        "source": 6762,
+        "target": 5511
+      },
+      {
+        "source": 1273,
+        "target": 1299
+      },
+      {
+        "source": 3356,
+        "target": 174
+      }
+    ]
+  }
+  
